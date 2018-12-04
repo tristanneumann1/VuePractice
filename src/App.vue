@@ -55,6 +55,7 @@ body {
   height: 100vh;
   font-family: 'NTR', sans-serif;
   background: #eee;
+  margin: 0;
 }
 
 h1 {
@@ -64,6 +65,7 @@ h1 {
 .location-contain {
   display: flex;
   justify-content: center;
+  align-content: flex-start;
   flex-wrap: wrap;
 }
 </style>
